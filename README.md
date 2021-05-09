@@ -7,7 +7,8 @@
 3. set up the .env file
 4. `$ ./vendor/bin/sail up`
 5. `$ ./vendor/bin/sail artisan migrate:refresh --seed`
-6. `$ yarn hot`
-7. Navigate to your http://localhost
+6. `$ yarn`
+7. `$ yarn hot`
+8. Navigate to your http://localhost
 
 Thanks!
